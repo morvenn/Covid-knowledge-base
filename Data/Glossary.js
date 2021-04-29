@@ -1,0 +1,1 @@
+define({numchunks:1,prefix:'Glossary_Chunk',terms:[{t:'112, 999',c:0},{t:'PESEL',c:0},{t:'Quarantine',c:0},{t:'The sanitary-epidemiological station (Sanepid)',c:0},{t:'The Social Insurance Institution',c:0},{t:'Ventilator',c:0}]});
